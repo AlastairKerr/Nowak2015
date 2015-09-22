@@ -23,6 +23,7 @@ Plot hexamers on selected pri-miRNAs vs randomised RNA
 ## Positions Directory 
 ### mmu-roio+200.ggag and mmu-roio+200.out
 Data files for the following pri-miRNAs 
+
  mmu-let-7a-1 
  mmu-let-7a-2
  mmu-mir-155
@@ -32,6 +33,7 @@ Data files for the following pri-miRNAs
  mmu-mir-9-2
  mmu-mir-9-3
  mmu-mir-99b
+
 For all hexamers (mmu-roio+200.out) and for hexamers containing ggag (mmu-roio+200.ggag)
 
 ### KmerPosition.r
